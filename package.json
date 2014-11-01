@@ -1,0 +1,25 @@
+{
+  "name": "simple-image",
+  "version": "0.0.0",
+  "description": "simple-image\r ============",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chris-dickson/simple-image.git"
+  },
+  "author": "Chris Dickson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-dickson/simple-image/issues"
+  },
+  "homepage": "https://github.com/chris-dickson/simple-image",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "chai-as-promised": "^4.1.1",
+    "mocha": "^2.0.1",
+    "q": "^1.0.1"
+  }
+}
